@@ -1,7 +1,7 @@
-[main page](https://lilkost.github.io/translation_center/)
-[client page](https://lilkost.github.io/translation_center/client.html)
-[contact page](https://lilkost.github.io/translation_center/contact.html)
-[lang page](https://lilkost.github.io/translation_center/lang.html)
-[news page](https://lilkost.github.io/translation_center/news.html)
-[question page](https://lilkost.github.io/translation_center/question.html)
-[service page](https://lilkost.github.io/translation_center/service.html)
+[main page](https://lilkost.github.io/translation_center/)<br />
+[client page](https://lilkost.github.io/translation_center/client.html)<br />
+[contact page](https://lilkost.github.io/translation_center/contact.html)<br />
+[lang page](https://lilkost.github.io/translation_center/lang.html)<br />
+[news page](https://lilkost.github.io/translation_center/news.html)<br />
+[question page](https://lilkost.github.io/translation_center/question.html)<br />
+[service page](https://lilkost.github.io/translation_center/service.html)<br />
