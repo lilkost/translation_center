@@ -1,1 +1,7 @@
-[main page] (https://lilkost.github.io/translation_center/)
+[main page](https://lilkost.github.io/translation_center/)
+[client page](https://lilkost.github.io/translation_center/client.html)
+[contact page](https://lilkost.github.io/translation_center/contact.html)
+[lang page](https://lilkost.github.io/translation_center/lang.html)
+[news page](https://lilkost.github.io/translation_center/news.html)
+[question page](https://lilkost.github.io/translation_center/question.html)
+[service page](https://lilkost.github.io/translation_center/service.html)
